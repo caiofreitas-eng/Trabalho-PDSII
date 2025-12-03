@@ -1,5 +1,7 @@
 # Trabalho-PDSII
-Turma: TF Integrantes: Caio Henrique Pereira de Freitas, Jullia Guedes Freire, Marcio Arthur Machado de Oliveira Professor: Fernando Skackauskas Dias
+Turma: TF 
+Integrantes: Caio Henrique Pereira de Freitas, Jullia Guedes Freire, Marcio Arthur Machado de Oliveira 
+Professor: Fernando Skackauskas Dias
 
 Este documento descreve o projeto PokéCode, um sistema desenvolvido em C++
 que simula batalhas baseadas no universo Pokémon. O projeto utiliza programação
